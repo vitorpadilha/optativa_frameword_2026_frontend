@@ -1,1 +1,0 @@
-{"version":3,"file":"pessoa.d.ts","sourceRoot":"","sources":["../src/pessoa.ts"],"names":[],"mappings":"AAEA,cACM,MAAM;IAER,IAAI,EAAE,MAAM,CAAC;IAEb,KAAK,EAAE,MAAM,CAAC;gBAEF,IAAI,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM;IAIhC,QAAQ,IAAI,MAAM;CAG5B;AAED,OAAO,EAAE,MAAM,EAAE,CAAC"}
